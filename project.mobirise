@@ -21,6 +21,8 @@
         "isRtl": false
       }
     },
+    "favicon": "@PROJECT_PATH@/assets/images/shutter-512-128x128.png",
+    "noImageResize": "",
     "versionFirst": "3.12.1",
     "uniqCompNum": 7,
     "versionPublish": "3.12.1"
@@ -405,7 +407,7 @@
             }
           },
           "title": "GRAFIK / FOTOGRAF&nbsp;<br>JUNIOR WEB DEVELOPER",
-          "text": "<b>Witam Serdecznie!&nbsp;<br></b>Zapraszam do zapoznania się z moim internetowym <b>CV.</b><br>",
+          "text": "<p><b>Witam Serdecznie!&nbsp;<br></b>Zapraszam do zapoznania się z moim internetowym <b>CV.</b>&nbsp;&nbsp;&nbsp;&nbsp;<b> <a href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpNXVzb3hpcmR0QWs\" target=\"_blank\">Drukuj &gt;&gt;</a></b><b><br></b><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
