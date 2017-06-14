@@ -25,7 +25,9 @@
     "noImageResize": "",
     "versionFirst": "3.12.1",
     "uniqCompNum": 7,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -90,17 +92,62 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/ikony-poziomo-2000x941-1.png",
+                "image": "@PROJECT_PATH@/assets/images/akti-2000x1064.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/packshot-2000x983-1.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
                 "contentAlign": "center",
                 "showTitle": false,
-                "title": "<br><br><br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">Grafik&nbsp;</span><br>Web Developer",
+                "title": "<br><br><br><br><br>Fotograf",
                 "showText": false,
-                "text": "Pracowałem nad wieloma projektami Webowymi. Stworzyłem kilka stron oraz wiele grafik do stron WWW. Aktualnie, od kilku miesięcy pogłębiam swoją wiedzię w zakresie budowy stron WWW w HTML 5, CSS, SASS oraz programowania obiektowego w JavaScript.",
+                "text": "Mam ponad 15-letnie doświadczenie w robieniu zdjęć, a także w edycji obrazu. W swojej karierze zajmowałem się robieniem i przygotowaniem zdjęć do druku w czasopismach jak i wydruk wielkoformatowy. Pracowałem z modelkami, packshotami, krajobrazem oraz mam spore doświadczenie w fotografii sportowej.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/mercure2-2000x1080.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/montaz1-2000x980.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
@@ -149,20 +196,6 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/packshot-2000x983-1.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "<br><br><br><br><br>Fotograf",
-                "showText": false,
-                "text": "Mam ponad 15-letnie doświadczenie w robieniu zdjęć, a także w edycji obrazu. W swojej karierze zajmowałem się robieniem i przygotowaniem zdjęć do druku w czasopismach jak i wydruk wielkoformatowy. Pracowałem z modelkami, packshotami, krajobrazem oraz mam spore doświadczenie w fotografii sportowej.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/duon-1-2000x1125.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -178,22 +211,21 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/brighton-2000x986.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ikony-poziomo-2000x941-1.png",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
-                "overlayOpacity": "0.3",
                 "contentAlign": "center",
                 "showTitle": false,
-                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "title": "<br><br><br><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">Grafik&nbsp;</span><br>Web Developer",
                 "showText": false,
-                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
+                "text": "Pracowałem nad wieloma projektami Webowymi. Stworzyłem kilka stron oraz wiele grafik do stron WWW. Aktualnie, od kilku miesięcy pogłębiam swoją wiedzię w zakresie budowy stron WWW w HTML 5, CSS, SASS oraz programowania obiektowego w JavaScript.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/web-skills-2000x912.png",
+                "image": "@PROJECT_PATH@/assets/images/brighton-2000x986.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -223,7 +255,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/rudys-1-2000x1125-1.png",
+                "image": "@PROJECT_PATH@/assets/images/sady-ja1-2000x1314.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -238,21 +270,6 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/wahkiki-1-2000x1125-1.png",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "overlayOpacity": "0.3",
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "Grafik<br>Fotograf<br>Web Developer",
-                "showText": false,
-                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/winiary-2000x986.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -268,7 +285,7 @@
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/play-2000x986.png",
+                "image": "@PROJECT_PATH@/assets/images/img-03181-2000x1333.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -329,6 +346,36 @@
               {
                 "active": false,
                 "image": "@PROJECT_PATH@/assets/images/sompting1-2000x986.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1338.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "overlayOpacity": "0.3",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Grafik<br>Fotograf<br>Web Developer",
+                "showText": false,
+                "text": "Witam Państwa. Nazwyam się Jan Szymański. Kilka miesięcy temu wróciłem z Anglii i chciałbym kontynuować pracę w Polsce w charakterze Grafika/Web Developera. Moim dodatkowym atutem jest bardzo dobra znajomość edycji obrazu w tym filmu. <br>Mam dużą determinację, szybko i chętnie się uczę.<br>Posiadam bardzo dobrą znajomość języka angielskiego&nbsp;<br>zarówno w mowie jak i piśmie.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/land1-2000x932.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
@@ -406,8 +453,8 @@
               "size": 0
             }
           },
-          "title": "GRAFIK / FOTOGRAF&nbsp;<br>JUNIOR WEB DEVELOPER",
-          "text": "<p><b>Witam Serdecznie!&nbsp;<br></b>Zapraszam do zapoznania się z moim internetowym <b>CV.</b>&nbsp;&nbsp;&nbsp;&nbsp;<b> <a href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpNXVzb3hpcmR0QWs\" target=\"_blank\">Drukuj &gt;&gt;</a></b><b><br></b><br></p>",
+          "title": "GRAFIK / FOTOGRAF&nbsp;<br><br>",
+          "text": "<p><b>Witam Serdecznie!&nbsp;<br></b>Zapraszam do zapoznania się z moim internetowym <b>CV.</b>&nbsp;&nbsp;&nbsp;&nbsp;<b> </b><a href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpNXVzb3hpcmR0QWs\" target=\"_blank\">Drukuj &gt;&gt;</a><b><a href=\"https://drive.google.com/open?id=0Bz4--y2VHLbpNXVzb3hpcmR0QWs\" target=\"_blank\"></a></b><b><br></b><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -426,7 +473,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>Nazywam się Jan Szymański (lat 35) &nbsp;i chętnie podejmę pracę/płatny staż w charakterze <b>Fotografa /</b>&nbsp;<b>Grafika /</b>&nbsp;<b>Junior Front End Web Developera</b>. Na przestrzeni ostatnich 15-stu lat wykonywałem zawody związane z fotografią, edycją tekstu i obrazu, projektowaniem grafiki na potrzeby marketingu, a także stworzyłem samodzielnie kilka stron WWW. Posiadam dużą wrażliwość estetyczną i jestem kreatywny. Niedawno wróciłem z Anglii i od kilku miesięcy uczę się programowania w zakresie Front End Developing'u. Studiuję online na <b>Codecademy.com,&nbsp;</b>Coursera.org,<b>&nbsp;courses.edx.org, </b>Stackoverflow.com,<b> W3schools.com</b>. Dotychczas zgłębiłem wiedzę z następujących działów: <b>HTML 5, CSS3, Responsive Design, Sass, Angular JS 1.X, JavaScript, GitHub.&nbsp;</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Szukam pracodawcy u którego, będę mógł praktycznie wykorzystać i poszerzyć zdobytą wiedzę, licząc za razem na <b>długotrwałą współpracę.</b>&nbsp;</span></p>"
+          "text": "<p>Nazywam się Jan Szymański (lat 35) &nbsp;i chętnie podejmę pracę/płatny staż w charakterze <b>Fotografa /</b>&nbsp;<b>Grafika</b>. Na przestrzeni ostatnich 15-stu lat wykonywałem zawody związane z fotografią, edycją tekstu i obrazu, projektowaniem grafiki na potrzeby marketingu, a także stworzyłem samodzielnie kilka stron WWW. Posiadam dużą wrażliwość estetyczną i jestem kreatywny. Niedawno wróciłem z Anglii i od kilku miesięcy uczę się programowania w zakresie Front End Developing'u. Studiuję online na <b>Codecademy.com,&nbsp;</b>Stackoverflow.com,<b> </b>W3schools.com. Dotychczas zgłębiłem wiedzę z następujących działów: <b>HTML 5, CSS3, Responsive Design, Sass, Angular JS 1.X, JavaScript, GitHub.&nbsp;</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Moją największą pasją jest jednak fotografia i to na tym polu chciałbym się realizować. Nie mam wygórowanych oczekiwań finansowych. Szukam pracodawcy u którego, będę mógł praktycznie wykorzystać i poszerzyć zdobytą wiedzę, licząc za razem na <b>długotrwałą współpracę.</b>&nbsp;</span></p>"
         },
         {
           "_tags": [
