@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6,
+    "uniqCompNum": 8,
     "versionPublish": "4.5.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -48,10 +48,10 @@
             },
             ".mbr-section-subtitle": {
               "color": "#000000",
-              "font-size": "25px"
+              "font-size": "17px"
             },
             ".mbr-section-title": {
-              "font-size": "72px"
+              "font-size": "48px"
             }
           },
           "_params": {
@@ -80,7 +80,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/iga-1135x1103.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -107,7 +107,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/499200-1134x754.png",
+                "image": "@PROJECT_PATH@/assets/images/brighton-1135x777.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -192,7 +192,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/499200-1134x754.png",
+                "image": "@PROJECT_PATH@/assets/images/limo4-1135x1103.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -279,7 +279,7 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/499200-1134x754.png",
+                "image": "@PROJECT_PATH@/assets/images/vector-smart-object-1135x755.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -337,8 +337,112 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/biala-1135x853.jpg",
+                "image": "@PROJECT_PATH@/assets/images/limo1-1-1135x1103.jpg",
                 "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "FULL SCREEN SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/asia1-1135x1103.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "TWÓJ FOTOGRAF",
+                "overlay": false,
+                "contentAlign": "right",
+                "text": "",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/rece-1135x1103.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "FULL SCREEN SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/claudia5-1135x868.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "FULL SCREEN SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/limo2-1135x803.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "FULL SCREEN SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/limo3-1135x1103.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "FULL SCREEN SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dagmara-1135x1103.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "FULL SCREEN SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/vector-smart-object-1135x755.png",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -359,6 +463,119 @@
           ],
           "_name": "slider",
           "_anchor": "slider-0"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/male2-367x244.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/male-367x244.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/male1-367x244.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/dron-367x244.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\">Pakiet</span> Podstawowy",
+          "subtitle1": "699,-",
+          "caption1": "Reportaż ze ślubu kościelnego + wesele + plener.<br>Wszystko razem około<b> 5 godzin.</b><br>Wybór spośród <b>500 zdjęć.</b><br>200 zdjęć przygotowanych <br>do druku na płycie CD.&nbsp;",
+          "title2": "<span style=\"font-weight: normal;\">Pakiet </span>Rozszerzony",
+          "subtitle2": "1299,-",
+          "caption2": "Reportaż ze ślubu kościelnego + wesele + plener.\n<br>Wszystko razem około <b>10 godzin.</b><br><b>Plener innego dnia.</b><br><b>Fotoksiążka</b>/Fotokalendaż<br><b>Galeria zdjęć WWW.</b><div>Wybór spośród <b>700 zdjęć.</b><br>300 zdjęć przygotowanych&nbsp;<br>do druku na płycie CD<br></div>",
+          "title3": "<span style=\"font-weight: normal;\">Pakiet </span>PRO",
+          "subtitle3": "1899,-",
+          "caption3": "Reportaż ze ślubu kościelnego + wesele + plener. \n<br>Wszystko razem około <b>15 godzin.\n</b><br><b>Plener innego dnia.</b><br><b>3 x Fotoksiążka</b>/Fotokalendaż\n<br><b>Galeria zdjęć WWW.</b>\n<br>10 x <b>wydruk 20 x 30 cm.</b><br><b>Wydruk zdjęcia w formie obrazu 50 x 70 cm.</b><br>Wybór spośród <b>700 zdjęć.\n</b><br>300 zdjęć przygotowanych \n<br>do druku na płycie CD",
+          "title4": "&nbsp;<span style=\"font-weight: normal;\">Pakiet </span>Unlimited&nbsp;",
+          "subtitle4": "Cena do uzgodnienia.",
+          "caption4": "Wyjazdy krajowe i zagraniczne.<br>Filmowanie i edycja.<br>Filmowanie z powietrza.<br>Studio fotograficzne.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-7"
         },
         {
           "_params": {
