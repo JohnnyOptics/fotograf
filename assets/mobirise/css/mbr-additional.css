@@ -411,3 +411,21 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header3-5 .mbr-section-title,
+#header3-5 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5 .mbr-section-subtitle {
+  color: #000000;
+  font-size: 25px;
+}
+#header3-5 .mbr-section-title {
+  font-size: 72px;
+}
+#form1-4 .form-control-label {
+  color: #232323;
+}
+#form1-4 .mbr-section-title {
+  color: #28324e;
+  font-size: 36px;
+}
